@@ -16,5 +16,11 @@ npm run build
 npm start
 ```
 
+# Test
+  No test framework is provide but you can install your own and run :
+```
+npm run test
+```
+
 # See your app at
 http://localhost:8080/
