@@ -17,7 +17,7 @@ npm start
 ```
 
 # Test
-  No test framework is provide but you can install your own and run :
+  No test framework is provided but you can install your own and run :
 ```
 npm run test
 ```
