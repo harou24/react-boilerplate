@@ -10,18 +10,23 @@ This is a minimal react boilerplate with the folowing dependencies :
 - webpack (webpack-cli, webpack-dev-server, html-webpack-plugin) 
 - babel-loader (@babel/core, @babel/preset-env, @babel/preset-react)
 
-# How to run
+## How to run
 ```
 npm install
 npm start
 ```
 
-# See your app at
+## See your app at
 http://localhost:8080/
 
-# TypeScript
+## TypeScript
 A TypeScript version of this boilerplate is available on the typescript branch.
 
-# Sources
+## Usefull packages
+```
+npm install --save styled-components
+npm install --save @types/styled-components
+```
+## Sources
 
 https://mrseanbaines.medium.com/how-to-write-a-minimal-react-boilerplate-from-scratch-85ba17757040
