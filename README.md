@@ -26,6 +26,9 @@ A TypeScript version of this boilerplate is available on the typescript branch.
 ```
 npm install --save styled-components
 npm install --save @types/styled-components
+npm install --save react-router-dom
+npm install --save react-scroll
+npm install --save @types/react-scroll
 ```
 ## Sources
 
