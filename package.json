@@ -20,15 +20,15 @@
   },
   "homepage": "https://github.com/harou24/react-boilerplate#readme",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
     "@babel/preset-react": "^7.14.5",
     "@types/react": "^17.0.37",
-    "@types/react-dom": "^17.0.11",
+    "@types/react-dom": "^17.0.18",
     "babel-loader": "^8.2.3",
     "html-webpack-plugin": "^5.5.0",
     "ts-loader": "^9.2.6",
