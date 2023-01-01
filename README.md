@@ -18,18 +18,3 @@ npm start
 
 ## See your app at
 http://localhost:8080/
-
-## TypeScript
-A TypeScript version of this boilerplate is available on the typescript branch.
-
-## Usefull packages
-```
-npm install --save styled-components
-npm install --save @types/styled-components
-npm install --save react-router-dom
-npm install --save react-scroll
-npm install --save @types/react-scroll
-```
-## Sources
-
-https://mrseanbaines.medium.com/how-to-write-a-minimal-react-boilerplate-from-scratch-85ba17757040
