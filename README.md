@@ -18,4 +18,3 @@ This is a minimal react boilerplate that includes the following dependencies:
 4. Run `npm start` to start the development server.
 5. Your app will be running at `http://localhost:8080/`.
 6. You can now start building your React application.
-
